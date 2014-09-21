@@ -639,25 +639,25 @@ $tokens token, lägenhet $apt"
 "text:stamp_approved","APPROVED","BEVILJAS"
 "text:stamp_denied","DENIED","NEKAS"
 "text:stamp_reason","REASON","ORSAK"
-"text:booth_dragdocs","DRAG DOCUMENTS HERE","DRAG DOCUMENTS HERE"
-"text:booth_highlight","HIGHLIGHT DISCREPANCIES","HIGHLIGHT DISCREPANCIES"
+"text:booth_dragdocs","DRAG DOCUMENTS HERE","DRA DOKUMENT HIT"
+"text:booth_highlight","HIGHLIGHT DISCREPANCIES","MARKERA DISKREPANSER"
 "text:booth_discrepancy","DISCREPANCY
-DETECTED","DISCREPANCY
-DETECTED"
-"text:booth_interrogate","INTERROGATE","INTERROGATE"
+DETECTED","DISKREPANS
+DETEKTERAD"
+"text:booth_interrogate","INTERROGATE","FÖRHÖR"
 "text:booth_matching","MATCHING
-DATA","MATCHING
+DATA","MATCHANDE
 DATA"
 "text:booth_nocorrelation","NO
-CORRELATION","NO
-CORRELATION"
+CORRELATION","INGEN
+KORRELATION"
 "text:booth_cleared","DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
-"text:env_clearforentry","Applicant clear for entry","Applicant clear for entry"
+CLEARED","DISKREPANS
+NOLLSTÄLLD"
+"text:env_clearforentry","Applicant clear for entry","Sökande klar för inträde"
 "text:env_lettermale","M","M"
-"text:env_letterfemale","F","F"
-"text:env_noalias","No known alias","No known alias"
+"text:env_letterfemale","F","K"
+"text:env_noalias","No known alias","Inga kända alias"
 "text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
 "text:endless_complete","$style
 $course
@@ -667,54 +667,54 @@ $score Points","$style
 $course
 
 $time
-$score Points"
-"text:endless_ranked","Ranked #$0","Ranked #$0"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Complete story mode with your job intact to unlock endless mode"
+$score poäng"
+"text:endless_ranked","Ranked #$0","Rankad #$0"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Klara av storyläge med ditt jobb intakt för att låsa upp oändligt läge"
 "text:endless_wrongcode","S O R R Y","S O R R Y"
 "text:date_verbose","$month $day, $year","$month $day, $year"
-"text:month_1","January","January"
-"text:month_2","February","February"
-"text:month_3","March","March"
+"text:month_1","January","Januari"
+"text:month_2","February","Februari"
+"text:month_3","March","Mars"
 "text:month_4","April","April"
-"text:month_5","May","May"
-"text:month_6","June","June"
-"text:month_7","July","July"
-"text:month_8","August","August"
+"text:month_5","May","Maj"
+"text:month_6","June","Juni"
+"text:month_7","July","Juli"
+"text:month_8","August","Augusti"
 "text:month_9","September","September"
-"text:month_10","October","October"
+"text:month_10","October","Oktober"
 "text:month_11","November","November"
 "text:month_12","December","December"
-"text:day_1","1st","1st"
-"text:day_2","2nd","2nd"
-"text:day_3","3rd","3rd"
-"text:day_4","4th","4th"
-"text:day_5","5th","5th"
-"text:day_6","6th","6th"
-"text:day_7","7th","7th"
-"text:day_8","8th","8th"
-"text:day_9","9th","9th"
-"text:day_10","10th","10th"
-"text:day_11","11th","11th"
-"text:day_12","12th","12th"
-"text:day_13","13th","13th"
-"text:day_14","14th","14th"
-"text:day_15","15th","15th"
-"text:day_16","16th","16th"
-"text:day_17","17th","17th"
-"text:day_18","18th","18th"
-"text:day_19","19th","19th"
-"text:day_20","20th","20th"
-"text:day_21","21st","21st"
-"text:day_22","22nd","22nd"
-"text:day_23","23rd","23rd"
-"text:day_24","24th","24th"
-"text:day_25","25th","25th"
-"text:day_26","26th","26th"
-"text:day_27","27th","27th"
-"text:day_28","28th","28th"
-"text:day_29","29th","29th"
-"text:day_30","30th","30th"
-"text:day_31","31st","31st"
+"text:day_1","1st","1"
+"text:day_2","2nd","2"
+"text:day_3","3rd","3"
+"text:day_4","4th","4"
+"text:day_5","5th","5"
+"text:day_6","6th","6"
+"text:day_7","7th","7"
+"text:day_8","8th","8"
+"text:day_9","9th","9"
+"text:day_10","10th","10"
+"text:day_11","11th","11"
+"text:day_12","12th","12"
+"text:day_13","13th","13"
+"text:day_14","14th","14"
+"text:day_15","15th","15"
+"text:day_16","16th","16"
+"text:day_17","17th","17"
+"text:day_18","18th","18"
+"text:day_19","19th","19"
+"text:day_20","20th","20"
+"text:day_21","21st","21"
+"text:day_22","22nd","22"
+"text:day_23","23rd","23"
+"text:day_24","24th","24"
+"text:day_25","25th","25"
+"text:day_26","26th","26"
+"text:day_27","27th","27"
+"text:day_28","28th","28"
+"text:day_29","29th","29"
+"text:day_30","30th","30"
+"text:day_31","31st","31"
 "text:bulletin_default","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -724,14 +724,14 @@ Inspector,
 $content
 
 Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Tillträdesministeriet
+Officiell Bulletin
 
-Inspector,
+Inspectör,
 
 $content
 
-Glory to Arstotzka."
+Ära åt Arstotzka."
 "text:bulletin_notice","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -741,14 +741,14 @@ NOTICE:
 $content
 
 Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Tillträdesministeriet
+Officiell Bulletin
 
-NOTICE:
+NOTERA:
 
 $content
 
-Glory to Arstotzka."
+Ära åt Arstotzka."
 "text:bulletin_endless","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -758,14 +758,14 @@ $style
 $course
 
 Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Tillträdesministeriet
+Officiell Bulletin
 
 $style
 
 $course
 
-Glory to Arstotzka."
+Ära åt Arstotzka."
 "bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
 
 Stamp passport ENTRY VISA and return documents to entrant.
