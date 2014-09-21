@@ -12,7 +12,7 @@ till den suveräna nationen Arstotzka"
 "AccessPermitInner","DURATION","VARAKTIGHET"
 "AccessPermitInner","WEIGHT","VIKT"
 "AccessPermitInner","ENTER BY","INTRÄDE INNAN"
-"AccessPermitInner","Keep on person","Ha alltid på dig"
+"AccessPermitInner","Keep on person","Ha alltid med"
 "AccessPermitInner","Ministry of Admission","Tillträdesministeriet"
 "AsylumGrantInner","Arstotzka","Arstotzka"
 "AsylumGrantInner","GRANT of ASYLUM","BEVILJADE av ASYL"
@@ -55,7 +55,7 @@ till den suveräna nationen Arstotzka"
 "BulletinInnerFilerTut","Passport Confiscation","Passkonfiskering"
 "BulletinInnerFilerTut","Verify ALTAN resident on id.","Verifiera ALTAN-<br>invånare på id."
 "BulletinInnerFilerTut","Drop passport in confiscation drawer.","Släpp pass i konfiskeringslåda."
-"BulletinInnerFilerTut","If arresting, confiscate before detaining.","Vid arrest, konfiskera innan kvarhållning."
+"BulletinInnerFilerTut","If arresting, confiscate before detaining.","Vid arrest, konfiskera<br>innan kvarhållning."
 "BulletinInnerCriminals","Ministry of Justice","Justitieministeriet"
 "BulletinInnerCriminals","WANTED CRIMINALS","EFTERSÖK. BROTTSLINGAR"
 "BulletinInnerNews","NEWS","NYHETER"
@@ -80,7 +80,7 @@ till den suveräna nationen Arstotzka"
 "EntryTicketInner","ENTRY TICKET","ENTRÉBILJETT"
 "EntryTicketInner","VALID ON","GILTIG"
 "EzicNoteInnerOpen","READ QUICKLY","LÄS SKYNDSAMT"
-"EzicNoteInnerOpen","RETURN TO MESSENGER","TILLBAKA TILL BUDBÄRARE"
+"EzicNoteInnerOpen","RETURN TO MESSENGER","GE TILLBAKA TILL BUDBÄRARE"
 "FamilyPhotoInner","HANG ON WALL","HÄNG PÅ VÄGGEN"
 "FingerprintsInner","GIVE THIS PAPER TO APPLICANT","GE DETTA PAPPER TILL SÖKANDE"
 "ForgeryFlyerInnerFront","NEED FORGED<br>OBRISTAN DOCS?","BEHÖVER DU FALSKA<br>OBRISTANDOKUMENT?"
@@ -260,7 +260,7 @@ GÅ MED!"
 "RulesInnerConfiscation","MOI","INM"
 "RulesInnerLast","PROPERTY OF","TILLHÖR"
 "RulesInnerLast","M.O.A.","TTM"
-"RulesInnerLast","GLORY TO ARSTOTZKA","ÄRA VARE ARSTOTZKA"
+"RulesInnerLast","GLORY TO ARSTOTZKA","ÄRA ÅT ARSTOTZKA"
 "RulesInnerLast","Arstotzkan","Arstotzkanska"
 "RulesInnerLast","Ministry of Admission","Tillträdesministeriet"
 "RulesInnerLast","Rules &amp; Regulations","Regler &amp; Regulationer"
@@ -283,7 +283,7 @@ GÅ MED!"
 "RulesUpgrade3","QUICK INSPECT","SNABBINSPEKTERA"
 "RulesUpgrade3","DOUBLE-CLICK","DUBBELKLICKA"
 "SeizureSlipInner","Arstotzka Ministry of Admission","Arstotzkanska Tillträdesministeriet"
-"SeizureSlipInner","PASSPORT SEIZURE SLIP","PASSBESLAGSSEDEL"
+"SeizureSlipInner","PASSPORT SEIZURE SLIP","PASSBESLAGSEDEL"
 "SeizureSlipInner","ENTRY VISA","INTRÄDESVISUM"
 "SeizureSlipInner","Your passport has been seized.","Ditt pass har beslagtagits."
 "SeizureSlipInner","Contact 1509-6103 for redress.","Kontakta 1509-6103 för rättelse."
@@ -305,7 +305,7 @@ GÅ MED!"
 "WorkPermitInner","HOLDER","INNEH."
 "WorkPermitInner","FIELD","OMRÅDE"
 "WorkPermitInner","UNTIL","TILLS"
-"WorkPermitInner","Keep this pass with you at all times.","Keep this pass with you at all times."
+"WorkPermitInner","Keep this pass with you at all times.","Ha detta tillstånd alltid med dig."
 "EndNews","Kolechian Consensus Reached Over Grestin","Samförstånd över Grestin uppnått<br>med Kolechia"
 "ApartmentClass","CLASS","KLASS"
 "DetainButton","DETAIN","KVARHÅLL"
@@ -320,7 +320,7 @@ GÅ MED!"
 "GiveIcon","GIVE","GE"
 "LoadButtonNew","NEW","NYTT"
 "LoadDay","DAY","DAG"
-"LoadDrag","DRAG TO SCROLL","DRA FÖR SKROLL"
+"LoadDrag","DRAG TO SCROLL","DRA FÖR ATT SKROLLA"
 "News","The Truth of Arstotzka","Sanningens Arstotzka"
 "News","No Charge","Kostnadsfri"
 "ReasonButton","REASON","ORSAK"
@@ -727,7 +727,7 @@ Glory to Arstotzka.","Arstotzka
 Tillträdesministeriet
 Officiell Bulletin
 
-Inspectör,
+Inspektör,
 
 $content
 
@@ -772,13 +772,13 @@ Stamp passport ENTRY VISA and return documents to entrant.
 
 Entry is restricted to Arstotzkan citizens only.
 
-Deny all foreigners.","Welcome to your new position at Grestin Border Checkpoint.
+Deny all foreigners.","Välkommen till din nya position vid Grestins gränskontroll.
 
-Stamp passport ENTRY VISA and return documents to entrant.
+Stämpla pass INTRÄDESVISUM och lämna tillbaka till sökande.
 
-Entry is restricted to Arstotzkan citizens only.
+Inträde är begränsat till Arstotzkanska invånare enbart.
 
-Deny all foreigners."
+Neka alla utlänningar."
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
 
 Your booth's INSPECTION hardware is now installed.
