@@ -547,26 +547,26 @@ GÅ MED!"
 "text:confirm_cancel","CANCEL","AVBRYT"
 "text:menu_mainmenu","MAIN MENU","HUVUDMENY"
 "text:menu_resume","RESUME","FORTSÄTT"
-"text:menu_quit","QUIT","QUIT"
-"text:menu_done","DONE","DONE"
+"text:menu_quit","QUIT","AVSLUTA"
+"text:menu_done","DONE","KLAR"
 "text:menu_story","STORY","STORY"
-"text:menu_endless","ENDLESS","ENDLESS"
-"text:menu_play","PLAY","PLAY"
-"text:menu_fullscreen","Fullscreen","Fullscreen"
-"text:menu_nudity","Nudity","Nudity"
-"text:menu_easy","Easy Mode","Easy Mode"
-"text:menu_music","Music","Music"
-"text:menu_sound","Sound","Sound"
-"text:menu_dateformat","Date Format","Date Format"
-"text:menu_language","Language","Language"
-"text:menu_easytip","+ 20 credits per day","+ 20 credits per day"
-"text:menu_stats","STATS","STATS"
-"text:menu_next","NEXT","NEXT"
-"text:menu_walktowork","WALK TO WORK","WALK TO WORK"
-"text:menu_paused","PAUSED","PAUSED"
-"text:menu_settings","SETTINGS","SETTINGS"
-"text:menu_credits","CREDITS","CREDITS"
-"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
+"text:menu_endless","ENDLESS","OÄNDLIGT"
+"text:menu_play","PLAY","SPELA"
+"text:menu_fullscreen","Fullscreen","Fullskärm"
+"text:menu_nudity","Nudity","Nakenhet"
+"text:menu_easy","Easy Mode","Enkelt läge"
+"text:menu_music","Music","Musik"
+"text:menu_sound","Sound","Ljud"
+"text:menu_dateformat","Date Format","Datumformat"
+"text:menu_language","Language","Språk"
+"text:menu_easytip","+ 20 credits per day","+ 20 krediter per dag"
+"text:menu_stats","STATS","STATISTIK"
+"text:menu_next","NEXT","NÄSTA"
+"text:menu_walktowork","WALK TO WORK","GÅ TILL JOBBET"
+"text:menu_paused","PAUSED","PAUSAD"
+"text:menu_settings","SETTINGS","INSTÄLLNINGAR"
+"text:menu_credits","CREDITS","KREDITER"
+"text:menu_checkforupdates","CHECK FOR UPDATES","MARKERA FÖR UPPDATERINGAR"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -574,36 +574,36 @@ $denied denied
 $detained detained
 $citations citations earned
 $stamps stamps applied
-Ending $endnum of $endtotal","Played for $time
-$processed travelers processed
-$approved approved
-$denied denied
-$detained detained
-$citations citations earned
-$stamps stamps applied
-Ending $endnum of $endtotal"
+Ending $endnum of $endtotal","Spelat i $time
+$processed resenärer behandlade
+$approved godkända
+$denied nekade
+$detained kvarhållna
+$citations citationer förtjänade
+$stamps stämplar använda
+Slut $endnum av $endtotal"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
-If this problem persists, re-install the Steam client.","STEAM CONNECTION FAILED
+If this problem persists, re-install the Steam client.","STEAM-KOPPLING MISSLYCKADES
 
-If this problem persists, re-install the Steam client."
+Om problemet kvarstår, installera om Steam-klienten."
 "text:steam_restartfailed","STEAM RESTART FAILED
 
-If this problem persists, re-install the Steam client.","STEAM RESTART FAILED
+If this problem persists, re-install the Steam client.","STEAM-OMSTART MISSLYCKADES
 
-If this problem persists, re-install the Steam client."
+Om problemet kvarstår, installera om Steam-klienten."
 "text:steam_noconnect","STEAM CONNECTION FAILED
 
-The game will attempt to restart through the Steam client.","STEAM CONNECTION FAILED
+The game will attempt to restart through the Steam client.","STEAM-KOPPLING MISSLYCKADES
 
-The game will attempt to restart through the Steam client."
-"text:steam_restart","RESTART","RESTART"
-"text:load_title","Select day to continue or start a new game","Select day to continue or start a new game"
+Spelet kommer försöka starta om genom Steam-klienten."
+"text:steam_restart","RESTART","STARTA OM"
+"text:load_title","Select day to continue or start a new game","Välj dag att fortsätta eller starta ett nytt spel"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
-There is no undo.","Delete this day $0 save?
+There is no undo.","Ta bort denna dag $0-sparning?
 
-There is no undo."
+Detta går inte att ångra."
 "text:load_confirm_delete_multi","Delete this save branch from day $0 to day $1?
 
 There is no undo.","Delete this save branch from day $0 to day $1?
